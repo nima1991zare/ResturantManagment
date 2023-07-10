@@ -1,0 +1,16 @@
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\bin\Debug\ResturantDB.mdf
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\bin\Debug\ResturantDB_log.ldf
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\bin\Debug\ResturantManagment.exe.config
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\bin\Debug\ResturantManagment.exe
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\bin\Debug\ResturantManagment.pdb
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\obj\Debug\ResturantManagment.csproj.AssemblyReference.cache
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\obj\Debug\ResturantManagment.csproj.SuggestedBindingRedirects.cache
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\obj\Debug\ResturantManagment.Form1.resources
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\obj\Debug\ResturantManagment.Properties.Resources.resources
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\obj\Debug\ResturantManagment.csproj.GenerateResource.cache
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\obj\Debug\ResturantManagment.csproj.CoreCompileInputs.cache
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\obj\Debug\ResturantManagment.exe
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\obj\Debug\ResturantManagment.pdb
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\obj\Debug\ResturantManagment.Foods.resources
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\obj\Debug\ResturantManagment.land.resources
+C:\Users\nima1\source\repos\ResturantManagment\ResturantManagment\obj\Debug\ResturantManagment.personels.resources
